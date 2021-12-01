@@ -1,5 +1,8 @@
 # Project 0: Bike Shop
 The goal of this project is to show that you can plan, code, prioritize, and meet deadlines. Failure to present a satisfactory project will result in a release from training.
+
+Note: testing is a primary focus of this project. A fully-functional application with little-to-no testing is *not* a satisfactory project, but a well-tested application that is missing some functionality may still be satisfactory.
+
 The application that you will be building will be an API for a bicycle shop. There will not be a front end for this project, so presentations will be done using Postman.
 
 ## Due Dates
